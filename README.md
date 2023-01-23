@@ -1,5 +1,5 @@
 # FinalProject
-Assignment InstructionsDevelop a ASP.NETWebAPI, using Git as a code repository.Each member of your team should have at least one commit to the project. I would recommend splitting the project into equal parts(the best you can).The WebAPI should conform to the following specifications.
+Assignment Instructions Develop a ASP.NET Web API, using Git as a code repository.Each member of your team should have at least one commit to the project. I would recommend splitting the project into equal parts(the best you can).The WebAPI should conform to the following specifications.
 
 * Use the latest version of dotnet core
 * Connect to a database using Entity Framework Core
